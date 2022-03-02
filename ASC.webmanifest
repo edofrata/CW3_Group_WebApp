@@ -1,0 +1,15 @@
+{
+    "name": "After School Lessons",
+    "short_name": "lessons",
+    "description": "my online after lessons club",
+    "icons": [
+        {
+            "src": "online-learning.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#B12A34"
+}
