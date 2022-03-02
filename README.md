@@ -1,7 +1,6 @@
-Full name : Edoardo Fratantonio
-Student ID: M00702510
-Heroku Page: https://cst3145-edo.herokuapp.com/
-Github Repo: https://github.com/edofrata/Coursework_WApp
+Full name : Edoardo, Francesco, Michael, Lukas
+Student ID: M00702510, M00696513, M00696969, M00702452
+Github Page: https://edofrata.github.io/CW3_Group_WebApp/
 
-Retrieving lessons from database url : https://cst3145-edo.herokuapp.com/collection/lessons
-Retrieving orders from database url : https://cst3145-edo.herokuapp.com/collection/orders
+Github Repo: https://github.com/edofrata/CW3_Group_WebApp
+
